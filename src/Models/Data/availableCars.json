@@ -1,0 +1,222 @@
+[
+    {
+        "id": 1817623773566477,
+        "brand": "Honda",
+        "model": "Civic",
+        "year": 2019,
+        "transmission": "Automatic",
+        "fuelType": "Electric",
+        "passengers": 8,
+        "dailyPriceHuf": 16500,
+        "image": "https:\/\/media.ed.edmunds-media.com\/honda\/civic\/2019\/oem\/2019_honda_civic_sedan_touring_fq_oem_1_815.jpg"
+    },
+    {
+        "id": 1817633864659776,
+        "brand": "Nissan",
+        "model": "GTR R-35",
+        "year": 2024,
+        "transmission": "Automatic",
+        "fuelType": "Petrol",
+        "passengers": 4,
+        "dailyPriceHuf": 100000,
+        "image": "https:\/\/media.ed.edmunds-media.com\/nissan\/gt-r\/2024\/oem\/2024_nissan_gt-r_coupe_nismo_fq_oem_5_1600x1067.jpg"
+    },
+    {
+        "id": 3,
+        "brand": "Toyota",
+        "model": "Corolla",
+        "year": 2020,
+        "transmission": "Automatic",
+        "fuelType": "Petrol",
+        "passengers": 5,
+        "dailyPriceHuf": 18000,
+        "image": "https:\/\/media.ed.edmunds-media.com\/toyota\/corolla\/2020\/oem\/2020_toyota_corolla_sedan_xse_fq_oem_1_1600x1067.jpg"
+    },
+    {
+        "id": 1817539830150079,
+        "brand": "Ford",
+        "model": "Mustang",
+        "year": 2021,
+        "transmission": "Manual",
+        "fuelType": "Petrol",
+        "passengers": 4,
+        "dailyPriceHuf": 25000,
+        "image": "https:\/\/media.ed.edmunds-media.com\/ford\/mustang\/2021\/oem\/2021_ford_mustang_coupe_gt_fq_oem_1_1600x1067.jpg"
+    },
+    {
+        "id": 5,
+        "brand": "Mercedes-Benz",
+        "model": "Gt 63",
+        "year": 2024,
+        "transmission": "Automatic",
+        "fuelType": "Petrol",
+        "passengers": 4,
+        "dailyPriceHuf": 70000,
+        "image": "https:\/\/media.ed.edmunds-media.com\/mercedes-benz\/amg-gt\/2024\/oem\/2024_mercedes-benz_amg-gt_coupe_63_fq_oem_10_1600x1067.jpg"
+    },
+    {
+        "id": 6,
+        "brand": "BMW",
+        "model": "3 Series",
+        "year": 2021,
+        "transmission": "Automatic",
+        "fuelType": "Diesel",
+        "passengers": 5,
+        "dailyPriceHuf": 35000,
+        "image": "https:\/\/media.ed.edmunds-media.com\/bmw\/3-series\/2021\/oem\/2021_bmw_3-series_sedan_330i_fq_oem_1_1600x1067.jpg"
+    },
+    {
+        "id": 7,
+        "brand": "Audi",
+        "model": "A4",
+        "year": 2024,
+        "transmission": "Automatic",
+        "fuelType": "Petrol",
+        "passengers": 5,
+        "dailyPriceHuf": 32000,
+        "image": "https:\/\/media.ed.edmunds-media.com\/audi\/a4\/2022\/oem\/2022_audi_a4_sedan_prestige-s-line_fq_oem_1_815.jpg"
+    },
+    {
+        "id": 8,
+        "brand": "Mercedes-Benz",
+        "model": "C-Class",
+        "year": 2025,
+        "transmission": "Automatic",
+        "fuelType": "Petrol",
+        "passengers": 5,
+        "dailyPriceHuf": 40000,
+        "image": "https:\/\/media.ed.edmunds-media.com\/mercedes-benz\/glc-class\/2025\/oem\/2025_mercedes-benz_glc-class_4dr-suv_amg-glc-43_fq_oem_1_815.jpg"
+    },
+    {
+        "id": 9,
+        "brand": "Volkswagen",
+        "model": "Golf R",
+        "year": 2024,
+        "transmission": "Manual",
+        "fuelType": "Petrol",
+        "passengers": 5,
+        "dailyPriceHuf": 33000,
+        "image": "https:\/\/www.edmunds.com\/assets\/m\/cs\/blt6bd0cf7a411912f6\/6699a39a490fbcdfc222ee0a\/2024-volkswagen-golf-r-f34.jpg"
+    },
+    {
+        "id": 10,
+        "brand": "Mazda",
+        "model": "3",
+        "year": 2025,
+        "transmission": "Automatic",
+        "fuelType": "Petrol",
+        "passengers": 5,
+        "dailyPriceHuf": 50000,
+        "image": "https:\/\/media.ed.edmunds-media.com\/mazda\/3\/2025\/oem\/2025_mazda_3_4dr-hatchback_25-s-carbon-edition_fq_oem_1_815.jpg"
+    },
+    {
+        "id": 11,
+        "brand": "Hyundai",
+        "model": "Elantra",
+        "year": 2021,
+        "transmission": "Automatic",
+        "fuelType": "Petrol",
+        "passengers": 5,
+        "dailyPriceHuf": 16000,
+        "image": "https:\/\/media.ed.edmunds-media.com\/hyundai\/elantra\/2021\/oem\/2021_hyundai_elantra_sedan_limited_fq_oem_1_1600x1067.jpg"
+    },
+    {
+        "id": 12,
+        "brand": "Fiat",
+        "model": "500e",
+        "year": 2024,
+        "transmission": "Automatic",
+        "fuelType": "Electric",
+        "passengers": 4,
+        "dailyPriceHuf": 18000,
+        "image": "https:\/\/media.ed.edmunds-media.com\/fiat\/500e\/2024\/oem\/2024_fiat_500e_2dr-hatchback_red-edition_fq_oem_1_1600x1067.jpg"
+    },
+    {
+        "id": 13,
+        "brand": "Subaru",
+        "model": "Impreza",
+        "year": 2025,
+        "transmission": "Manual",
+        "fuelType": "Petrol",
+        "passengers": 5,
+        "dailyPriceHuf": 20000,
+        "image": "https:\/\/media.ed.edmunds-media.com\/subaru\/impreza\/2025\/oem\/2025_subaru_impreza_4dr-hatchback_rs_fq_oem_1_815.jpg"
+    },
+    {
+        "id": 14,
+        "brand": "Tesla",
+        "model": "Model 3",
+        "year": 2022,
+        "transmission": "Automatic",
+        "fuelType": "Electric",
+        "passengers": 5,
+        "dailyPriceHuf": 50000,
+        "image": "https:\/\/media.ed.edmunds-media.com\/tesla\/model-3\/2022\/oem\/2022_tesla_model-3_sedan_performance_fq_oem_1_1600x1067.jpg"
+    },
+    {
+        "id": 15,
+        "brand": "Volvo",
+        "model": "S60",
+        "year": 2021,
+        "transmission": "Automatic",
+        "fuelType": "Petrol",
+        "passengers": 5,
+        "dailyPriceHuf": 35000,
+        "image": "https:\/\/media.ed.edmunds-media.com\/volvo\/s60\/2021\/oem\/2021_volvo_s60_sedan_t6-r-design_fq_oem_1_1600x1067.jpg"
+    },
+    {
+        "id": 16,
+        "brand": "Lexus",
+        "model": "ES",
+        "year": 2025,
+        "transmission": "Automatic",
+        "fuelType": "Petrol",
+        "passengers": 5,
+        "dailyPriceHuf": 45000,
+        "image": "https:\/\/media.ed.edmunds-media.com\/lexus\/es\/2025\/oem\/2025_lexus_es_sedan_250-f-sport-design_fq_oem_1_815.jpg"
+    },
+    {
+        "id": 17,
+        "brand": "Toyota",
+        "model": "Chr",
+        "year": 2024,
+        "transmission": "Automatic",
+        "fuelType": "Petrol",
+        "passengers": 5,
+        "dailyPriceHuf": 38000,
+        "image": "https:\/\/media.ed.edmunds-media.com\/toyota\/rav4-hybrid\/2024\/oem\/2024_toyota_rav4-hybrid_4dr-suv_xse_fq_oem_1_815.jpg"
+    },
+    {
+        "id": 18,
+        "brand": "Alfa Romeo",
+        "model": "Giulia",
+        "year": 2021,
+        "transmission": "Automatic",
+        "fuelType": "Petrol",
+        "passengers": 5,
+        "dailyPriceHuf": 37000,
+        "image": "https:\/\/media.ed.edmunds-media.com\/alfa-romeo\/giulia\/2021\/oem\/2021_alfa-romeo_giulia_sedan_ti-sport_fq_oem_1_1600x1067.jpg"
+    },
+    {
+        "id": 19,
+        "brand": "Porsche",
+        "model": "911",
+        "year": 2022,
+        "transmission": "Automatic",
+        "fuelType": "Petrol",
+        "passengers": 4,
+        "dailyPriceHuf": 120000,
+        "image": "https:\/\/media.ed.edmunds-media.com\/porsche\/911\/2022\/oem\/2022_porsche_911_coupe_turbo-s_fq_oem_1_1600x1067.jpg"
+    },
+    {
+        "id": 20,
+        "brand": "Lamborghini",
+        "model": "Uris",
+        "year": 2023,
+        "transmission": "Automatic",
+        "fuelType": "Petrol",
+        "passengers": 5,
+        "dailyPriceHuf": 150000,
+        "image": "https:\/\/media.ed.edmunds-media.com\/lamborghini\/urus\/2023\/oem\/2023_lamborghini_urus_4dr-suv_performante_fq_oem_1_1600x1067.jpg"
+    }
+]

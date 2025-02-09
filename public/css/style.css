@@ -1,0 +1,105 @@
+:root {
+    --btn-color: #FDC43D;
+    --navbar-color: #2C2D2D;
+    --card-color: #43404E;
+    --bg-color: #0f0f0f;
+}
+
+.admin {
+    color: red !important;
+}
+
+.highlightBtn {
+    background-color: var(--btn-color) !important;
+    color: var(--navbar-color) !important;
+    border-radius: 1rem;
+}
+
+.highlightBtn2 {
+    border-color: white;
+    background-color: var(--bg-color);
+    color: white;
+    border-radius: 1rem;
+}
+
+.highlightBtn2:hover {
+    background-color: white;
+    color: var(--bg-color) !important;
+    border-color: var(--bg-color);
+}
+
+.deleteButton {
+    background-color: red !important;
+    color: white !important;
+    border-radius: 1rem;
+}
+
+.deleteButton:hover {
+    background-color: white !important;
+    color: red !important;
+}
+
+.modifyButton {
+    background-color: #0c3e4e !important;
+    color: white !important;
+    border-radius: 1rem;
+}
+
+.modifyButton:hover {
+    background-color: white !important;
+    color: #0c3e4e !important;
+}
+
+.highlightBtn:hover {
+    background-color: var(--navbar-color) !important;
+    color: var(--btn-color) !important;
+}
+
+.avatar {
+    border-radius: 50%;
+    width: 3rem;
+    height: 3rem;
+}
+
+#logo {
+    width: 30% !important;
+}
+
+.car-image {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    aspect-ratio: 3/2;
+}
+
+
+#filterArea option {
+    color: var(--navbar-color) !important;
+}
+
+body {
+    background-color: var(--bg-color);
+    color: white;
+}
+
+h1 {
+    font-size: 5rem;
+}
+
+.alert ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.alert {
+    text-align: center;
+}
+
+.alert ul li {
+    text-align: center;
+}
+
+.unauth {
+    border-color: grey !important;
+    border: solid;
+}
