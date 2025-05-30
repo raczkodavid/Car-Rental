@@ -1,128 +1,16 @@
 [
-    {
-        "id": 1817443013234850,
-        "fullName": "David",
-        "email": "david1@gmail.com",
-        "password": "$2y$12$nRMn83Qx975cmml8Lguc4el7ify5OQ.kMCD7OsEGR9SB5e5uQ\/f1y",
-        "admin": true
-    },
-    {
-        "id": 1817514118877696,
-        "fullName": "Alma",
-        "email": "alma@gmail.com",
-        "password": "$2y$12$7et\/oJ9AFhEjX\/J7NW001.eHJYMoVr937vLHCvuFmEtUR4j1D.llS",
-        "admin": false
-    },
-    {
-        "id": 1817532822043092,
-        "fullName": "Fasz",
-        "email": "fasz@gmail.com",
-        "password": "$2y$12$4opamIErXmJwOZsG0JbU8.SzZepoTEDMNjr9LYrWBqXuyIODTfzlW",
-        "admin": false
-    },
-    {
-        "id": 1817532906915100,
-        "fullName": "haha",
-        "email": "haha@gmail.com",
-        "password": "$2y$12$noizJRV2gNnWmzCAWcq51ePUZoL9iK0uYjbKreHt4CTh8JhiaOB7q",
-        "admin": false
-    },
-    {
-        "id": 1817532943681717,
-        "fullName": "asdjlaskd\u00e9la",
-        "email": "lakatos@brendon.hu",
-        "password": "$2y$12$1rDCxzuNMeSdb7FqSnOssuoa6M8BRrLzcwtcHKgvUAKe6HrxVsJVi",
-        "admin": false
-    },
-    {
-        "id": 1817533893749430,
-        "fullName": "alma",
-        "email": "almafa2@gmail.com",
-        "password": "$2y$12$7QbVsKrIYlH4stKBi20khOkTOVOjBqBxriXlmAZglA3IZPhYf1ZMS",
-        "admin": false
-    },
-    {
-        "id": 1817534612856620,
-        "fullName": "asdasd@gmail.com",
-        "email": "asdasd@gmail.com",
-        "password": "$2y$12$X1\/r\/RLcnJA1dgPUciSW3.8AZ0DmWJ9npSr8FemP4fWsjuEoiunXG",
-        "admin": false
-    },
-    {
-        "id": 1817534929762926,
-        "fullName": "kutyafasz@gmail.com",
-        "email": "kutyafasz@gmail.com",
-        "password": "$2y$12$bnRISlhQ2tk0q763JyiZxe7.xKfsfel\/OzcbMsQg1.JvafPp38P6.",
-        "admin": false
-    },
-    {
-        "id": 1817534991903886,
-        "fullName": "kutyafasz2@gmail.com",
-        "email": "kutyafasz2@gmail.com",
-        "password": "$2y$12$q9hTeuL0B.yX2CAbaWA...yB8XqyK3X\/hQFrTgD4rRqtA8tr6BFHi",
-        "admin": false
-    },
-    {
-        "id": 1817539284918516,
-        "fullName": "Admin",
-        "email": "admin@ikarrental.hu",
-        "password": "$2y$12$UdCxZ.CT8dXaqJHaR0kDhOV.FdBL8WFpH\/rNMSXlHY1W\/c77XZe7q",
-        "admin": true
-    },
-    {
-        "id": 1817540551145298,
-        "fullName": "asddas",
-        "email": "admin@ikarrental.hu",
-        "password": "$2y$12$CDdnQeDdY3SKEuukn1ULNuwVtlhyGtJA0dNrY7l6LRcxMpHu5I5XG",
-        "admin": false
-    },
-    {
-        "id": 1817540691322398,
-        "fullName": "admin@ikarrental.hu",
-        "email": "admin@ikarrental.hu",
-        "password": "$2y$12$C2R8UQ.4OsvEDmDecoiXFuodXbIftm4UgTjB7U4IxvNYRqHp\/vDKi",
-        "admin": false
-    },
-    {
-        "id": 1817540760382570,
-        "fullName": "admin@ikarrental.hu",
-        "email": "admin@ikarrental.hu",
-        "password": "$2y$12$fRyuMO0ix.AljijDBM.zOOeO\/kGmgVTwgdvjgpwllQ4e4p92mgUQW",
-        "admin": false
-    },
-    {
-        "id": 1817540829415192,
-        "fullName": "admin@ikarrental.hu",
-        "email": "admin@ikarrental.hu",
-        "password": "$2y$12$5eJTMchDg.bxuaocOpG9AO5I2uvQYhggcVPwdgUQzSg31PtbklfCi",
-        "admin": false
-    },
-    {
-        "id": 1817540846057351,
-        "fullName": "admin@ikarrental.hu",
-        "email": "admin@ikarrental.hu",
-        "password": "$2y$12$bYibc1YdKq7Z3buNNtJ0mevAO08jDfDjsWZi57qGKy20L9XF6eJoC",
-        "admin": false
-    },
-    {
-        "id": 1817540913777292,
-        "fullName": "admin@ikarrental.hu",
-        "email": "admin@ikarrental.hu",
-        "password": "$2y$12$1WTC6\/iC4Yl\/\/F7MTcZcz.v5qZ7c3LRV\/cZYHceOpJd8n\/JeSeH2W",
-        "admin": false
-    },
-    {
-        "id": 1817541001174604,
-        "fullName": "admin@ikarrental.hu",
-        "email": "admin@ikarrental.hu",
-        "password": "$2y$12$XpJ.g8LypH.MbWHgmv.hx.8.vhtD0H8q\/8jncvtcFAa6WBEtZtHQi",
-        "admin": false
-    },
-    {
-        "id": 1817610642173918,
-        "fullName": "lakatosbrendi@gmail.com",
-        "email": "lakatosbrendi@gmail.com",
-        "password": "$2y$10$LrsSv9lBZc4C3YRnVJ0xBuJO3.OAQ0p9YhdkKMNfQJW9cS537eXhu",
-        "admin": false
-    }
+  {
+    "id": 1817539284918516,
+    "fullName": "Admin",
+    "email": "admin@ikarrental.hu",
+    "password": "$2y$12$UdCxZ.CT8dXaqJHaR0kDhOV.FdBL8WFpH/rNMSXlHY1W/c77XZe7q",
+    "admin": true
+  },
+  {
+    "id": 1833555037388821,
+    "fullName": "Test User",
+    "email": "test@user.com",
+    "password": "$2y$10$IZruC/.Eu2MI8bEY.xSO2OYRLkC4yGPbKCJDbNJGfAX1SQyiQlK4G",
+    "admin": false
+  }
 ]

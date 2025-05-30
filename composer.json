@@ -1,24 +1,25 @@
 {
-    "name": "dadi/ikarrental",
-    "description": "Car renting site",
-    "type": "project",
-    "autoload": {
-        "psr-4": {
-            "App\\": "src/"
-        },
-        "files": [
-            "src/Utils/redirect.php",
-            "src/Utils/session.php",
-            "src/Utils/view.php"
-        ]
+  "name": "dadi/ikarrental",
+  "description": "Car renting site",
+  "type": "project",
+  "autoload": {
+    "psr-4": {
+      "App\\": "src/"
     },
-    "authors": [
-        {
-            "name": "raczkodavid",
-            "email": "raczkodavid@gmail.com"
-        }
-    ],
-    "require": {
-      "ext-json": "*"
+    "files": [
+      "src/Utils/redirect.php",
+      "src/Utils/session.php",
+      "src/Utils/view.php"
+    ]
+  },
+  "authors": [
+    {
+      "name": "raczkodavid",
+      "email": "raczkodavid@gmail.com"
     }
+  ],
+  "require": {
+    "ext-json": "*",
+    "php": "^7.4|^8.0"
+  }
 }
