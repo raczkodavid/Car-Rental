@@ -6,5 +6,23 @@ $vendorDir = dirname(__DIR__);
 $baseDir = dirname($vendorDir);
 
 return array(
+    'App\\Controller' => $baseDir . '/src/Controller.php',
+    'App\\Controllers\\CarController' => $baseDir . '/src/Controllers/CarController.php',
+    'App\\Controllers\\MainController' => $baseDir . '/src/Controllers/MainController.php',
+    'App\\Controllers\\ReservationController' => $baseDir . '/src/Controllers/ReservationController.php',
+    'App\\Controllers\\UserController' => $baseDir . '/src/Controllers/UserController.php',
+    'App\\Models\\Car' => $baseDir . '/src/Models/Car.php',
+    'App\\Models\\CarService' => $baseDir . '/src/Models/CarService.php',
+    'App\\Models\\Data\\FileIO' => $baseDir . '/src/Models/Data/FileIO.php',
+    'App\\Models\\Data\\FileNames' => $baseDir . '/src/Models/Data/FileNames.php',
+    'App\\Models\\Data\\IFileIO' => $baseDir . '/src/Models/Data/IFileIO.php',
+    'App\\Models\\Data\\IStorage' => $baseDir . '/src/Models/Data/IStorage.php',
+    'App\\Models\\Data\\JsonIO' => $baseDir . '/src/Models/Data/JsonIO.php',
+    'App\\Models\\Data\\Storage' => $baseDir . '/src/Models/Data/Storage.php',
+    'App\\Models\\Reservation' => $baseDir . '/src/Models/Reservation.php',
+    'App\\Models\\ReservationService' => $baseDir . '/src/Models/ReservationService.php',
+    'App\\Models\\User' => $baseDir . '/src/Models/User.php',
+    'App\\Models\\UserService' => $baseDir . '/src/Models/UserService.php',
+    'App\\Router' => $baseDir . '/src/Router.php',
     'Composer\\InstalledVersions' => $vendorDir . '/composer/InstalledVersions.php',
 );

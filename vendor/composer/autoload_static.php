@@ -27,6 +27,24 @@ class ComposerStaticInitbffbff3e82241eb985bc654194b54fb6
     );
 
     public static $classMap = array (
+        'App\\Controller' => __DIR__ . '/../..' . '/src/Controller.php',
+        'App\\Controllers\\CarController' => __DIR__ . '/../..' . '/src/Controllers/CarController.php',
+        'App\\Controllers\\MainController' => __DIR__ . '/../..' . '/src/Controllers/MainController.php',
+        'App\\Controllers\\ReservationController' => __DIR__ . '/../..' . '/src/Controllers/ReservationController.php',
+        'App\\Controllers\\UserController' => __DIR__ . '/../..' . '/src/Controllers/UserController.php',
+        'App\\Models\\Car' => __DIR__ . '/../..' . '/src/Models/Car.php',
+        'App\\Models\\CarService' => __DIR__ . '/../..' . '/src/Models/CarService.php',
+        'App\\Models\\Data\\FileIO' => __DIR__ . '/../..' . '/src/Models/Data/FileIO.php',
+        'App\\Models\\Data\\FileNames' => __DIR__ . '/../..' . '/src/Models/Data/FileNames.php',
+        'App\\Models\\Data\\IFileIO' => __DIR__ . '/../..' . '/src/Models/Data/IFileIO.php',
+        'App\\Models\\Data\\IStorage' => __DIR__ . '/../..' . '/src/Models/Data/IStorage.php',
+        'App\\Models\\Data\\JsonIO' => __DIR__ . '/../..' . '/src/Models/Data/JsonIO.php',
+        'App\\Models\\Data\\Storage' => __DIR__ . '/../..' . '/src/Models/Data/Storage.php',
+        'App\\Models\\Reservation' => __DIR__ . '/../..' . '/src/Models/Reservation.php',
+        'App\\Models\\ReservationService' => __DIR__ . '/../..' . '/src/Models/ReservationService.php',
+        'App\\Models\\User' => __DIR__ . '/../..' . '/src/Models/User.php',
+        'App\\Models\\UserService' => __DIR__ . '/../..' . '/src/Models/UserService.php',
+        'App\\Router' => __DIR__ . '/../..' . '/src/Router.php',
         'Composer\\InstalledVersions' => __DIR__ . '/..' . '/composer/InstalledVersions.php',
     );
 
