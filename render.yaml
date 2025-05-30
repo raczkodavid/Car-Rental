@@ -1,10 +1,9 @@
 services:
   - type: web
     name: car-rental
-    env: php
-    buildCommand: composer install --no-interaction --no-dev --prefer-dist
-    startCommand: heroku-php-apache2 public/
+    env: docker
+    dockerfilePath: ./Dockerfile
+    healthCheckPath: /
     envVars:
       - key: PHP_VERSION
         value: 8.1
-    healthCheckPath: /
