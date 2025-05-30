@@ -1,16 +1,16 @@
 [
-    {
-        "id": 1817539284918516,
-        "fullName": "Admin",
-        "email": "admin@ikarrental.hu",
-        "password": "$2y$12$UdCxZ.CT8dXaqJHaR0kDhOV.FdBL8WFpH\/rNMSXlHY1W\/c77XZe7q",
-        "admin": true
-    },
-    {
-        "id": 1833555037388821,
-        "fullName": "Test User",
-        "email": "test@user.com",
-        "password": "$2y$10$IZruC\/.Eu2MI8bEY.xSO2OYRLkC4yGPbKCJDbNJGfAX1SQyiQlK4G",
-        "admin": false
-    }
+  {
+    "id": 1817539284918516,
+    "fullName": "Admin",
+    "email": "admin@ikarrental.hu",
+    "password": "$2y$12$UdCxZ.CT8dXaqJHaR0kDhOV.FdBL8WFpH/rNMSXlHY1W/c77XZe7q",
+    "admin": true
+  },
+  {
+    "id": 1833555037388821,
+    "fullName": "Test User",
+    "email": "test@user.com",
+    "password": "$2y$10$IZruC/.Eu2MI8bEY.xSO2OYRLkC4yGPbKCJDbNJGfAX1SQyiQlK4G",
+    "admin": false
+  }
 ]
