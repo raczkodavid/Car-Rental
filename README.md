@@ -136,18 +136,11 @@ To test the application locally before deployment:
 php -S localhost:8000 -t public
 ```
 
-### Render.com Deployment Steps
+## About
 
-1. Push your code to a Git repository (GitHub, GitLab, etc.)
-2. Sign up or log in to Render.com
-3. Create a new Web Service and connect to your Git repository
-4. Render will detect the configuration in your `render.yaml` file
-5. Deploy your application
+This project was created as an assignment for the Web Programming course at ELTE University.
 
-## 📝 License
+## Author
 
-This project is for educational purposes.
-
-## 👏 Acknowledgments
-
-- Developed by raczkodavid (raczkodavid@gmail.com)
+- **Name**: Raczkó Dávid
+- **Email**: [raczkodavid@gmail.com](mailto:raczko.david@gmail.com)
