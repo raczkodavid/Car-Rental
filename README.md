@@ -89,6 +89,28 @@ Admins have all the capabilities of regular users, plus:
 2. **Modify Cars**: Update information for existing cars
 3. **Manage Inventory**: Control the available car inventory
 
+## 📸 Screenshots
+
+### Homepage & Car Browsing
+
+![Homepage](screenshots/homepage.png)
+
+### Car Details
+
+![Car Details](screenshots/car-details.png)
+
+### Reservations
+
+![Reservations](screenshots/reservations.png)
+
+### Admin
+
+![Admin view of the homepage](screenshots/admin1.png)
+
+![Modify Car](screenshots/admin3.png)
+
+![Create Car](screenshots/admin2.png)
+
 ## 🔑 Test Credentials
 
 ### Admin Account
